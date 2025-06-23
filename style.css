@@ -1,5 +1,6 @@
 body {
   font-family: system-ui, sans-serif;
+  background-color: aquamarine;
 }
 
 .hidden {
@@ -13,16 +14,16 @@ body {
 }
 
 #post-list div:hover {
-  background-color: #f3f4f6;
+  background-color: darkblue;
 }
 
 #post-list .selected {
-  background-color: #e5e7eb;
+  background-color: #5a7cc0;
 }
 
 button {
   transition: all 0.2s ease-in-out;
 }
 button:hover {
-  background-color: #e5e7eb;
+  background-color:greenyellow;
 }
