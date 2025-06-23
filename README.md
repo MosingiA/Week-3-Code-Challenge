@@ -1,4 +1,4 @@
-# 📬 Post Pulse
+# Week-3-Challenge
 
 **Post MANAGER BLOG** is a simple, dynamic blog post manager built with **HTML**, **JavaScript**, and **Tailwind CSS**. It uses `json-server` as a mock REST API to create, read, update, and delete blog posts in real time.
 
